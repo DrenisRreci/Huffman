@@ -1,0 +1,11 @@
+C:\Users\DEBIERREC\source\repos\Huffman\Huffman\bin\Debug\Huffman.exe.config
+C:\Users\DEBIERREC\source\repos\Huffman\Huffman\bin\Debug\Huffman.exe
+C:\Users\DEBIERREC\source\repos\Huffman\Huffman\bin\Debug\Huffman.pdb
+C:\Users\DEBIERREC\source\repos\Huffman\Huffman\obj\Debug\Huffman.csproj.AssemblyReference.cache
+C:\Users\DEBIERREC\source\repos\Huffman\Huffman\obj\Debug\Huffman.csproj.SuggestedBindingRedirects.cache
+C:\Users\DEBIERREC\source\repos\Huffman\Huffman\obj\Debug\Huffman.Form1.resources
+C:\Users\DEBIERREC\source\repos\Huffman\Huffman\obj\Debug\Huffman.Properties.Resources.resources
+C:\Users\DEBIERREC\source\repos\Huffman\Huffman\obj\Debug\Huffman.csproj.GenerateResource.cache
+C:\Users\DEBIERREC\source\repos\Huffman\Huffman\obj\Debug\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\DEBIERREC\source\repos\Huffman\Huffman\obj\Debug\Huffman.exe
+C:\Users\DEBIERREC\source\repos\Huffman\Huffman\obj\Debug\Huffman.pdb
