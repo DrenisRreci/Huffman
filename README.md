@@ -1,4 +1,4 @@
-# Foobar
+# Huffman-Generator
 
 A tool that can generate Huffman codes for a given string.
 
